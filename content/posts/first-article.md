@@ -8,4 +8,10 @@ tags:
   - daily
 ---
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+```
+
 Hugoで簡単なブログを作りました。

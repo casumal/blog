@@ -1,19 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>My New Hugo Special Site – Posts</title>
     <link>https://casumal.github.io/blog/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on My New Hugo Special Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 20 Feb 2022 23:25:24 +0900</lastBuildDate><atom:link href="https://casumal.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Feb 2022 23:25:24 +0900</lastBuildDate>
+    
+	  <atom:link href="https://casumal.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
     <item>
-      <title>はじめまして</title>
+      <title>Posts: はじめまして</title>
       <link>https://casumal.github.io/blog/posts/first-article/</link>
       <pubDate>Sun, 20 Feb 2022 23:25:24 +0900</pubDate>
       
       <guid>https://casumal.github.io/blog/posts/first-article/</guid>
-      <description>Hugoで簡単なブログを作りました。</description>
+      <description>
+        
+        
+        &lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;graph TD;
+    A--&amp;gt;B;
+    A--&amp;gt;C;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Hugoで簡単なブログを作りました。&lt;/p&gt;
+
+      </description>
     </item>
     
   </channel>

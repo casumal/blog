@@ -1,5 +1,5 @@
 baseURL = 'https://casumal.github.io/blog/'
 languageCode = 'ja-jp'
 title = 'My New Hugo Site'
-theme = "hello-friend-ng"
+theme = "gohugo-theme-ananke"
 publishDir = "docs"

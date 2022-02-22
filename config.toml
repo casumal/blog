@@ -1,5 +1,0 @@
-baseURL = 'https://casumal.github.io/blog/'
-languageCode = 'ja-jp'
-title = 'My New Hugo Special Site'
-theme = "docsy"
-publishDir = "docs"
